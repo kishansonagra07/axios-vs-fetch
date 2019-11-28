@@ -1,0 +1,10 @@
+{
+    "list": [
+        {
+            "name": "Test",
+            "email": "test@email.com",
+            "password": "12345",
+            "token": "a7sd98a7skj4h5"
+        }
+    ]
+}
